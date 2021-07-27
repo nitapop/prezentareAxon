@@ -1,0 +1,2 @@
+prefix: classpath:/templates/
+server.port: 8082

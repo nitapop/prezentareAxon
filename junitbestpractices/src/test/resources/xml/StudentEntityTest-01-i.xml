@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <STUDENT ID="1" NAME="Nita Pop"
+             BIRTH_DATE="[null]" MATH_STATE="[null]"/>
+
+    <STUDENT ID="2" NAME="Pop"
+             BIRTH_DATE="[null]" MATH_STATE="[null]"/>
+</dataset>
