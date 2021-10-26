@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:hsqldb:mem:testdb;resources.sql.syntax_ora=true
+    username: sa
+    password:
+    driver-class-name: org.hsqldb.jdbc.JDBCDriver
+    initialize: true
+    schema:
+      - "classpath:sql/create-tables.sql"
+  test:
+    database:
+      replace: none
+

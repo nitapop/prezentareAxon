@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false" useProcessorModulePath="true">
+          <entry name="$PROJECT_DIR$" />
+        </processorPath>
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="axsonftpresentation.junitbestpractices.main" target="1.8" />
+      <module name="axsonftpresentation.junitbestpractices.test" target="1.8" />
+      <module name="junitbestpractices.main" target="1.8" />
+      <module name="junitbestpractices.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
